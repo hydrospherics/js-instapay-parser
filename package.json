@@ -1,0 +1,7 @@
+{
+    "name": "js-instapay-parser",
+    "version": "1.0",
+    "main": "src/index.js",
+    "license": "Unlicense",
+    "type": "module"
+}

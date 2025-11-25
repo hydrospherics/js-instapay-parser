@@ -1,0 +1,36 @@
+export const ID_PAYLOAD_FORMAT_INDICATOR = '00';
+export const ID_POINT_OF_INITIATION_METHOD = '01';
+export const ID_MERCHANT_ACCOUNT_INFORMATION_RANGE_START = '26';
+export const ID_MERCHANT_ACCOUNT_INFORMATION_RANGE_END = '51';
+export const ID_MERCHANT_CATEGORY_CODE = '52';
+export const ID_TRANSACTION_CURRENCY = '53';
+export const ID_TRANSACTION_AMOUNT = '54';
+export const ID_TIP_OR_CONVENIENCE_INDICATOR = '55';
+export const ID_VALUE_OF_CONVENIENCE_FEE_FIXED = '56';
+export const ID_VALUE_OF_CONVENIENCE_FEE_PERCENTAGE = '57';
+export const ID_COUNTRY_CODE = '58';
+export const ID_MERCHANT_NAME = '59';
+export const ID_MERCHANT_CITY = '60';
+export const ID_POSTAL_CODE = '61';
+export const ID_ADDITIONAL_DATA_FIELD_TEMPLATE = '62';
+export const ID_CRC = '63';
+export const ID_MERCHANT_INFORMATION_LANGUAGE_TEMPLATE = '64';
+export const ID_UNRESERVED_TEMPLATES_RANGE_START = '80';
+export const ID_UNRESERVED_TEMPLATES_RANGE_END = '99';
+
+export const ID_MAI_PAYMENT_SYSTEM_ID = '00';
+export const ID_MAI_BANK_ROUTING_CODE = '01';
+export const ID_MAI_ACQUIRING_INSTITUTION_ID = '02';
+export const ID_MAI_MERCHANT_ACCOUNT_ID = '03';
+export const ID_MAI_ACCOUNT_NUMBER = '04';
+export const ID_MAI_HUMAN_READABLE_PHONE = '05';
+
+export const ID_ADF_BILL_NUMBER = '01';
+export const ID_ADF_MOBILE_NUMBER = '02';
+export const ID_ADF_STORE_LABEL = '03';
+export const ID_ADF_LOYALTY_NUMBER = '04';
+export const ID_ADF_REFERENCE_LABEL = '05';
+export const ID_ADF_CUSTOMER_LABEL = '06';
+export const ID_ADF_TERMINAL_LABEL = '07';
+export const ID_ADF_PURPOSE_OF_TRANSACTION = '08';
+export const ID_ADF_ADDITIONAL_CONSUMER_DATA_REQUEST = '09';
